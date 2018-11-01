@@ -1,0 +1,2 @@
+# SwipeableNonSwipeableViewPager
+Hello Friends, recently I was developing a mobile application in which I had to make Swipeable and Non-Swipeable ViewPager in Android and to achieve this I had to create ViewPager subclass CustomViewPager class . So, I thought to share it so that anyone else required can use it. I’d created a separate test application to share and you can also download Android Studio Project
